@@ -1,0 +1,26 @@
+name: Auto Update README
+on:
+  schedule:
+    - cron: '*/10 * * * *' # Runs every 10 minutes
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    name: Auto Update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Make Changes to README
+        run: |
+          echo "Making changes to README.md..."
+          echo " " >> README.md # Add a space to fake an update
+          git config --global user.name "README Update Bot"
+          git config --global user.email "readme-update-bot@example.com"
+          git add README.md
+          git commit -m "chore: auto-update README"
+
+      - name: Push Changes
+        run: |
+          git push
