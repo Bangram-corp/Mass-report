@@ -1,7 +1,7 @@
 # 🚀 **Bangram: Mass Report Tool**  
 🌟 *Take Down any Instagram account using Bangram Tool*  
 
-![📸](https://cdn.discordapp.com/attachments/1329906588991094900/1333178456577413172/image.png?ex=6797f2b1&is=6796a131&hm=5841c92bc043a538588c6cee59ff2d8e42c0806766cba83c2802c3f4a644ca35&)  
+![📸](https://cdn.discordapp.com/attachments/1329885293024907428/1333170334274293771/photo_2025-01-21_06-05-08.jpg?ex=67c8b2a0&is=67c76120&hm=c5e5a698ddf20e023062aee3270db2a5bb2695ae9f9fd494d3f0a754274b4f03&)  
 
 **Bangram** This tool helps you delete Instagram accounts using reports 📑. It also provides monthly updates for users and proxies 🔄.
 
@@ -26,7 +26,7 @@ Using Bangram is as easy as 1-2-3!
 ## 🟢 **Ready to Get Started?**  
 Join our **Telegram community** to unlock the power of Bangram. Stay updated with the latest features, tools, and more!  
 
-<img src="https://cdn.discordapp.com/attachments/1329885293024907428/1333179874747088956/986956_telegram_icon.png?ex=6797f403&is=6796a283&hm=07e5cf59caa19892f300c59065efce5c8b85c5a098729432792093c890b11975&" width="20" height="20"> **Telegram:** [Join Now](https://t.me/instabangss)  
+<img src="https://cdn.discordapp.com/attachments/1329885293024907428/1333179360714424330/logo.png?ex=67c81248&is=67c6c0c8&hm=a36558930c9df7d23ca70b807b5dfbb277104104f62675f44b3bf7421ab43c85&" width="20" height="20"> **Telegram:** [Join Now](https://t.me/instabangss)  
 
 ---
 
