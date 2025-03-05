@@ -26,7 +26,7 @@ Using Bangram is as easy as 1-2-3!
 ## 🟢 **Ready to Get Started?**  
 Join our **Telegram community** to unlock the power of Bangram. Stay updated with the latest features, tools, and more!  
 
-<img src="https://cdn.discordapp.com/attachments/1329885293024907428/1333179360714424330/logo.png?ex=67c81248&is=67c6c0c8&hm=a36558930c9df7d23ca70b807b5dfbb277104104f62675f44b3bf7421ab43c85&" width="20" height="20"> **Telegram:** [Join Now](https://t.me/instabangss)  
+<img src="https://cdn.discordapp.com/attachments/1329885293024907428/1333179360714424330/logo.png?ex=67c81248&is=67c6c0c8&hm=a36558930c9df7d23ca70b807b5dfbb277104104f62675f44b3bf7421ab43c85&" width="20" height="20"> **Telegram:** [Join Now](https://t.me/bangramx)  
 
 ---
 
